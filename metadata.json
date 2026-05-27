@@ -1,0 +1,6 @@
+{
+  "name": "Feliz Aniversário Natson",
+  "description": "Um site de aniversário interativo, animado e divertido para o Natson, com jogos, mural de recados e piadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
